@@ -1,3 +1,3 @@
 # coding-challenges
 
-todo: make useful
+todo: make more useful - organize
